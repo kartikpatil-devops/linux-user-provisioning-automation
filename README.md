@@ -61,23 +61,30 @@ Create Users    Create Groups   Create Directories
 
 # 📂 Project Structure
 
-```
 linux-user-provisioning-automation/
 
+├── README.md
+├── LICENSE
+├── .gitignore
 │
-├── create_users.sh
-├── users.csv
+├── script/
+│   └── create_users.sh
+│
+├── input/
+│   └── users.csv
+│
 ├── logs/
 │   └── provisioning.log
-├── screenshots/
-│   ├── csv-file.png
-│   ├── users-created.png
-│   ├── groups-created.png
-│   ├── permissions.png
-│   └── log-output.png
-├── README.md
-└── LICENSE
-```
+│
+├── docs/
+│   ├── deployment-guide.md
+│   ├── troubleshooting.md
+│   └── project-flow.md
+│
+├── architecture/
+│   └── architecture.drawio
+│
+└── screenshots/
 
 ---
 
@@ -491,10 +498,8 @@ Logs help track provisioning activities, simplify troubleshooting, and provide a
 
 **Kartik Patil**
 
-Mechanical Engineer | Linux Administrator | AWS Cloud Enthusiast | DevOps Learner
+| Linux Administrator | AWS Cloud  | DevOps |
 
 📧 Email: patilkartik74999@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/<your-profile>
-
-💻 GitHub: https://github.com/<your-username>
+🔗 LinkedIn: www.linkedin.com/in/kartikpatil7
