@@ -1,0 +1,29 @@
+===============================
+
+Linux User Provisioning Started
+
+===============================
+
+User john created successfully.
+
+Group HR already exists.
+
+Added john to HR group.
+
+Created /shared/HR
+
+Permissions configured.
+
+-------------------------------------
+
+User rahul created successfully.
+
+Added rahul to IT group.
+
+Created /shared/IT
+
+Permissions configured.
+
+-------------------------------------
+
+Provisioning Completed Successfully.
